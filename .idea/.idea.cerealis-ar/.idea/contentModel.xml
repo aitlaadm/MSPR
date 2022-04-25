@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_cerealis-ar.1485640759.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Cerealis" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="MainMenu.cs" t="Include" />
+            <e p="VoxelBustersManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="csc.rsp" t="Include" />
+        <e p="Editor" t="Include">
+          <e p="Migration" t="Include">
+            <e p="AddVuforiaEnginePackage.cs" t="Include" />
+          </e>
+        </e>
+        <e p="mcs.rsp" t="Include" />
+        <e p="PlayServicesResolver" t="Include">
+          <e p="Editor" t="Include">
+            <e p="play-services-resolver_v1.2.121.0.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Android" t="Include">
+            <e p="AndroidManifest_root_activity_settings_sample.txt" t="Include" />
+            <e p="native_plugins_lib" t="Include">
+              <e p="AndroidManifest.xml" t="Include" />
+              <e p="lint.xml" t="Include" />
+              <e p="proguard.txt" t="Include" />
+              <e p="res" t="Include">
+                <e p="layout" t="Include">
+                  <e p="np_camera_picture_layout.xml" t="Include" />
+                  <e p="np_progressbar_layout.xml" t="Include" />
+                  <e p="np_webview_layout.xml" t="Include" />
+                </e>
+                <e p="values" t="Include">
+                  <e p="com_crashlytics_export_strings.xml" t="Include" />
+                  <e p="np_colors.xml" t="Include" />
+                  <e p="np_strings.xml" t="Include" />
+                  <e p="np_styles.xml" t="Include" />
+                </e>
+                <e p="values-v11" t="Include">
+                  <e p="styles.xml" t="Include" />
+                </e>
+                <e p="values-v14" t="Include">
+                  <e p="styles.xml" t="Include" />
+                </e>
+                <e p="xml" t="Include">
+                  <e p="nativeplugins_file_paths.xml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="NativePluginsAndroidReadMe.txt" t="Include" />
+            <e p="voxelbusters_utility_lib" t="Include">
+              <e p="AndroidManifest.xml" t="Include" />
+              <e p="proguard.txt" t="Include" />
+            </e>
+          </e>
+          <e p="GitHub" t="Include">
+            <e p="Editor" t="Include">
+              <e p="credits.txt" t="Include" />
+              <e p="eula.txt" t="Include" />
+              <e p="ExtensionLoader.cs" t="Include" />
+              <e p="UnityAPIWrapper.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Region_Capture" t="Include">
+          <e p="Scenes" t="Include">
+            <e p="Out_Of_Bounds_Detection" t="Include">
+              <e p="RC_Change_Color.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="DeviceOrientation.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="RegionCaptureEditor.cs" t="Include" />
+            </e>
+            <e p="RC_Get_Texture.cs" t="Include" />
+            <e p="RegionCapture.cs" t="Include" />
+            <e p="RenderTextureCamera.cs" t="Include" />
+            <e p="SetAutoOrthographicSize.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="RC_Simple_Color.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Standard Assets" t="Include">
+          <e p="VoxelBusters" t="Include">
+            <e p="Common" t="Include">
+              <e p="AssetStoreProductUtility" t="Include">
+                <e p="Demo" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="DemoGUIWindow.cs" t="Include" />
+                    <e p="DemoMainMenu.cs" t="Include" />
+                    <e p="DemoSubMenu.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="Debug" t="Include">
+                    <e p="DebugUtility.cs" t="Include" />
+                    <e p="NullLogger.cs" t="Include" />
+                  </e>
+                  <e p="Editor" t="Include">
+                    <e p="AssetStoreProductInspector.cs" t="Include" />
+                  </e>
+                  <e p="Internal" t="Include">
+                    <e p="Constants.cs" t="Include" />
+                    <e p="ProductUpdateInfo.cs" t="Include" />
+                    <e p="UpdatePromptWindow.cs" t="Include" />
+                  </e>
+                  <e p="Product" t="Include">
+                    <e p="AssetStoreProduct.cs" t="Include" />
+                    <e p="IAssetStoreProduct.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="DesignPatterns" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Observer" t="Include">
+                    <e p="IObserver.cs" t="Include" />
+                    <e p="ObserverPattern.cs" t="Include" />
+                  </e>
+                  <e p="Singleton" t="Include">
+                    <e p="ISingleton.cs" t="Include" />
+                    <e p="SingletonPattern.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Utility" t="Include">
+                <e p="Automators" t="Include">
+                  <e p="Script" t="Include">
+                    <e p="AndroidManifest" t="Include">
+                      <e p="AndroidManifestGenerator.cs" t="Include" />
+                      <e p="AndroidManifestGenerator.Feature.cs" t="Include" />
+                    </e>
+                    <e p="GlobalDefines" t="Include">
+                      <e p="Editor" t="Include">
+                        <e p="GlobalDefinesManagerWindow.cs" t="Include" />
+                      </e>
+                      <e p="GlobalDefinesManager.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Extensions" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Assets" t="Include">
+                      <e p="AssetDatabaseUtils.cs" t="Include" />
+                    </e>
+                    <e p="Component" t="Include">
+                      <e p="ComponentExtensions.cs" t="Include" />
+                    </e>
+                    <e p="DateTime" t="Include">
+                      <e p="DateTimeExtensions.cs" t="Include" />
+                    </e>
+                    <e p="Enumeration" t="Include">
+                      <e p="EnumerationExtensions.cs" t="Include" />
+                    </e>
+                    <e p="GameObject" t="Include">
+                      <e p="GameObjectExtensions.cs" t="Include" />
+                    </e>
+                    <e p="Generics" t="Include">
+                      <e p="GenericsExtension.cs" t="Include" />
+                    </e>
+                    <e p="GenericTypes" t="Include">
+                      <e p="IDictionaryExtensions.cs" t="Include" />
+                    </e>
+                    <e p="IO" t="Include">
+                      <e p="IOExtensions.cs" t="Include" />
+                    </e>
+                    <e p="MonoBehaviour" t="Include">
+                      <e p="MonoBehaviourExtensions.cs" t="Include" />
+                    </e>
+                    <e p="PlayerSettings" t="Include">
+                      <e p="PlayerSettings.cs" t="Include" />
+                    </e>
+                    <e p="Reflection" t="Include">
+                      <e p="ReflectionExtensions.cs" t="Include" />
+                    </e>
+                    <e p="ScriptableObject" t="Include">
+                      <e p="Editor" t="Include">
+                        <e p="CustomScriptableObjectEditor.cs" t="Include" />
+                      </e>
+                      <e p="ISaveAssetCallback.cs" t="Include" />
+                      <e p="ScriptableObjectUtils.cs" t="Include" />
+                      <e p="SharedScriptableObject.cs" t="Include" />
+                    </e>
+                    <e p="String" t="Include">
+                      <e p="StringExtensions.cs" t="Include" />
+                    </e>
+                    <e p="Texture" t="Include">
+                      <e p="TextureExtensions.cs" t="Include" />
+                    </e>
+                    <e p="Transform" t="Include">
+                      <e p="TransformExtensions.cs" t="Include" />
+                    </e>
+                    <e p="Type" t="Include">
+                      <e p="TypeExtensions.cs" t="Include" />
+                    </e>
+                    <e p="Vector" t="Include">
+                      <e p="VectorExtensions.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="IO" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="FileOperations.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Parser" t="Include">
+                  <e p="Demo" t="Include">
+                    <e p="Script" t="Include">
+                      <e p="JSON" t="Include">
+                        <e p="JSONDemo.cs" t="Include" />
+                      </e>
+                      <e p="Plist" t="Include">
+                        <e p="PlistDemo.cs" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="JSON" t="Include">
+                      <e p="Extensions" t="Include">
+                        <e p="JSONParserExtensions.cs" t="Include" />
+                      </e>
+                      <e p="Internal" t="Include">
+                        <e p="Constants" t="Include">
+                          <e p="Constants.cs" t="Include" />
+                        </e>
+                        <e p="DataTypes" t="Include">
+                          <e p="Enums" t="Include">
+                            <e p="Enums.cs" t="Include" />
+                          </e>
+                          <e p="JSONString" t="Include">
+                            <e p="JSONString.cs" t="Include" />
+                          </e>
+                        </e>
+                      </e>
+                      <e p="JSONReader.cs" t="Include" />
+                      <e p="JSONUtility.cs" t="Include" />
+                      <e p="JSONWriter.cs" t="Include" />
+                    </e>
+                    <e p="Plist" t="Include">
+                      <e p="Plist.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Plugins" t="Include">
+                  <e p="Binding" t="Include">
+                    <e p="NativeBinding.Android.cs" t="Include" />
+                    <e p="NativeBinding.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="ThirdParty" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="XUPorter" t="Include">
+                      <e p="MiniJSON" t="Include">
+                        <e p="MiniJSON.cs" t="Include" />
+                      </e>
+                      <e p="PBX Editor" t="Include">
+                        <e p="PBXBuildFile.cs" t="Include" />
+                        <e p="PBXBuildPhase.cs" t="Include" />
+                        <e p="PBXDictionary.cs" t="Include" />
+                        <e p="PBXFileReference.cs" t="Include" />
+                        <e p="PBXGroup.cs" t="Include" />
+                        <e p="PBXList.cs" t="Include" />
+                        <e p="PBXObject.cs" t="Include" />
+                        <e p="PBXParser.cs" t="Include" />
+                        <e p="PBXProject.cs" t="Include" />
+                        <e p="PBXSortedDictionary.cs" t="Include" />
+                        <e p="PBXVariantGroup.cs" t="Include" />
+                      </e>
+                      <e p="XCBuildConfiguration.cs" t="Include" />
+                      <e p="XCConfigurationList.cs" t="Include" />
+                      <e p="XCMod.cs" t="Include" />
+                      <e p="XCodePostProcess.cs" t="Include" />
+                      <e p="XCProject.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="ExifLib" t="Include">
+                    <e p="BitConverterEx.cs" t="Include" />
+                    <e p="ExifBitConverter.cs" t="Include" />
+                    <e p="ExifEnums.cs" t="Include" />
+                    <e p="ExifExceptions.cs" t="Include" />
+                    <e p="ExifExtendedProperty.cs" t="Include" />
+                    <e p="ExifExtensionMethods.cs" t="Include" />
+                    <e p="ExifFile.cs" t="Include" />
+                    <e p="ExifInterOperability.cs" t="Include" />
+                    <e p="ExifProperty.cs" t="Include" />
+                    <e p="ExifPropertyFactory.cs" t="Include" />
+                    <e p="ExifTag.cs" t="Include" />
+                    <e p="ExifTagFactory.cs" t="Include" />
+                    <e p="JPEGExceptions.cs" t="Include" />
+                    <e p="JPEGFile.cs" t="Include" />
+                    <e p="JPEGMarker.cs" t="Include" />
+                    <e p="JPEGSection.cs" t="Include" />
+                    <e p="License.txt" t="Include" />
+                    <e p="MathEx.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="UI" t="Include">
+                  <e p="Script" t="Include">
+                    <e p="Base" t="Include">
+                      <e p="GUIModalWindow.cs" t="Include" />
+                      <e p="GUIScrollView.cs" t="Include" />
+                    </e>
+                    <e p="GUIDialogs" t="Include">
+                      <e p="GUIAlertDialog.cs" t="Include" />
+                      <e p="GUIDialog.cs" t="Include" />
+                      <e p="GUIPromptDialog.cs" t="Include" />
+                    </e>
+                    <e p="GUIExtensions" t="Include">
+                      <e p="GUIExtensions.cs" t="Include" />
+                    </e>
+                    <e p="GUILayoutUtility" t="Include">
+                      <e p="UnityGUILayoutUtility.cs" t="Include" />
+                    </e>
+                    <e p="GUIMenuSystem" t="Include">
+                      <e p="GUIMainMenu.cs" t="Include" />
+                      <e p="GUIMenuBase.cs" t="Include" />
+                      <e p="GUISubMenu.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="UnityEditor" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="CustomProperty" t="Include">
+                      <e p="ArrayDrawer" t="Include">
+                        <e p="Editor" t="Include">
+                          <e p="ArrayDrawer.cs" t="Include" />
+                        </e>
+                      </e>
+                      <e p="EnumMask" t="Include">
+                        <e p="Editor" t="Include">
+                          <e p="EnumMaskFieldDrawer.cs" t="Include" />
+                        </e>
+                        <e p="EnumMaskFieldAttribute.cs" t="Include" />
+                      </e>
+                      <e p="InspectorButton" t="Include">
+                        <e p="Editor" t="Include">
+                          <e p="InspectorButtonDrawer.cs" t="Include" />
+                        </e>
+                        <e p="Enums.cs" t="Include" />
+                        <e p="InspectorButtonAttribute.cs" t="Include" />
+                        <e p="InspectorButtonInfo.cs" t="Include" />
+                      </e>
+                      <e p="OnValueChange" t="Include">
+                        <e p="Editor" t="Include">
+                          <e p="ExecuteOnValueChangeDrawer.cs" t="Include" />
+                        </e>
+                        <e p="ExecuteOnValueChangeAttribute.cs" t="Include" />
+                      </e>
+                      <e p="Popup" t="Include">
+                        <e p="Editor" t="Include">
+                          <e p="PopupAttributeDrawer.cs" t="Include" />
+                        </e>
+                        <e p="PopupAttribute.cs" t="Include" />
+                      </e>
+                      <e p="Regex" t="Include">
+                        <e p="Editor" t="Include">
+                          <e p="RegexDrawer.cs" t="Include" />
+                        </e>
+                        <e p="RegexAttribute.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Editor" t="Include">
+                      <e p="Helper" t="Include">
+                        <e p="ArrayInspector.cs" t="Include" />
+                      </e>
+                      <e p="Uitlity" t="Include">
+                        <e p="UnityEditorUtility.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Invoke" t="Include">
+                      <e p="EditorUtils.cs" t="Include" />
+                    </e>
+                    <e p="PromptWindow" t="Include">
+                      <e p="PromptWindow.cs" t="Include" />
+                    </e>
+                    <e p="Scheduler" t="Include">
+                      <e p="EditorScheduler.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Web" t="Include">
+                  <e p="Demo" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="DownloadTextureDemo.cs" t="Include" />
+                      <e p="Editor" t="Include">
+                        <e p="DownloadTextureDemoInspector.cs" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="Request" t="Include">
+                      <e p="Base" t="Include">
+                        <e p="Request.cs" t="Include" />
+                        <e p="WebRequest.cs" t="Include" />
+                      </e>
+                      <e p="FileDownload" t="Include">
+                        <e p="DownloadAsset.cs" t="Include" />
+                        <e p="DownloadAssetBundle.cs" t="Include" />
+                        <e p="DownloadTexture.cs" t="Include" />
+                      </e>
+                      <e p="GET" t="Include">
+                        <e p="GETRequest.cs" t="Include" />
+                      </e>
+                      <e p="POST" t="Include">
+                        <e p="POSTRequest.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Response" t="Include">
+                      <e p="WebResponse.cs" t="Include" />
+                    </e>
+                    <e p="URL" t="Include">
+                      <e p="URL.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Zip" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="Zip.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="NativePlugins" t="Include">
+              <e p="Editor" t="Include">
+                <e p="CPNPDependencies.xml" t="Include" />
+                <e p="FindDuplicates.cs" t="Include" />
+                <e p="GradlePostProcessor.cs" t="Include" />
+                <e p="Menu.cs" t="Include" />
+                <e p="NPAndroidLibraryDependencies.cs" t="Include" />
+                <e p="NPAndroidManifestPostProcessor.cs" t="Include" />
+                <e p="PostProcessBuild.cs" t="Include" />
+                <e p="UninstallPlugin.cs" t="Include" />
+                <e p="UpdateChecker.cs" t="Include" />
+                <e p="WelcomeTourWindow.cs" t="Include" />
+              </e>
+              <e p="link.xml" t="Include" />
+              <e p="Plugins" t="Include">
+                <e p="AddonServices" t="Include">
+                  <e p="Base" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="AddonServiceSettingsDrawerBase.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="SoomlaGrow" t="Include">
+                    <e p="Binding" t="Include">
+                      <e p="Android" t="Include">
+                        <e p="SoomlaGrowServiceAndroid.cs" t="Include" />
+                        <e p="SoomlaGrowServiceAndroid.Native.cs" t="Include" />
+                      </e>
+                      <e p="Base" t="Include">
+                        <e p="SoomlaGrowService.cs" t="Include" />
+                        <e p="SoomlaGrowService.Events.cs" t="Include" />
+                      </e>
+                      <e p="iOS" t="Include">
+                        <e p="SoomlaGrowServiceIOS.cs" t="Include" />
+                      </e>
+                      <e p="UnityEditor" t="Include">
+                        <e p="SoomlaGrowServiceEditor.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="DataTypes" t="Include">
+                      <e p="Enums.cs" t="Include" />
+                    </e>
+                    <e p="Settings" t="Include">
+                      <e p="Editor" t="Include">
+                        <e p="SoomlaGrowServiceSettingsDrawer.cs" t="Include" />
+                      </e>
+                      <e p="SoomlaGrowServiceSettings.cs" t="Include" />
+                    </e>
+                    <e p="Utility" t="Include">
+                      <e p="SoomlaGrowServiceUtility.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Features" t="Include">
+                  <e p="AddressBook" t="Include">
+                    <e p="Binding" t="Include">
+                      <e p="Android" t="Include">
+                        <e p="AddressBookAndroid.cs" t="Include" />
+                        <e p="AddressBookAndroid.Events.cs" t="Include" />
+                        <e p="AddressBookAndroid.Native.cs" t="Include" />
+                      </e>
+                      <e p="Base" t="Include">
+                        <e p="AddressBook.cs" t="Include" />
+                        <e p="AddressBook.Events.cs" t="Include" />
+                      </e>
+                      <e p="iOS" t="Include">
+                        <e p="AddressBookIOS.cs" t="Include" />
+                        <e p="AddressBookIOS.Events.cs" t="Include" />
+                      </e>
+                      <e p="UnityEditor" t="Include">
+                        <e p="AddressBookEditor.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="DataTypes" t="Include">
+                      <e p="ContactInfo" t="Include">
+                        <e p="AddressBookContact.cs" t="Include" />
+                        <e p="AndroidAddressBookContact.cs" t="Include" />
+                        <e p="EditorAddressBookContact.cs" t="Include" />
+                        <e p="iOSAddressBookContact.cs" t="Include" />
+                      </e>
+                      <e p="Enums" t="Include">
+                        <e p="Enums.cs" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                  <e p="NetworkConnectivity" t="Include">
+                    <e p="Binding" t="Include">
+                      <e p="Android" t="Include">
+                        <e p="NetworkConnectivityAndroid.cs" t="Include" />
+                        <e p="NetworkConnectivityAndroid.Events.cs" t="Include" />
+                        <e p="NetworkConnectivityAndroid.Native.cs" t="Include" />
+                      </e>
+                      <e p="Base" t="Include">
+                        <e p="NetworkConnectivity.cs" t="Include" />
+                        <e p="NetworkConnectivity.Events.cs" t="Include" />
+                      </e>
+                      <e p="iOS" t="Include">
+                        <e p="NetworkConnectivityIOS.cs" t="Include" />
+                      </e>
+                      <e p="UnityEditor" t="Include">
+                        <e p="NetworkConnectivityEditor.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Settings" t="Include">
+                      <e p="NetworkConnectivitySettings.Android.cs" t="Include" />
+                      <e p="NetworkConnectivitySettings.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Sharing" t="Include">
+                    <e p="Binding" t="Include">
+                      <e p="Android" t="Include">
+                        <e p="SharingAndroid.cs" t="Include" />
+                        <e p="SharingAndroid.Events.cs" t="Include" />
+                        <e p="SharingAndroid.Mail.cs" t="Include" />
+                        <e p="SharingAndroid.Mail.Events.cs" t="Include" />
+                        <e p="SharingAndroid.Messaging.cs" t="Include" />
+                        <e p="SharingAndroid.Messaging.Events.cs" t="Include" />
+                        <e p="SharingAndroid.Native.cs" t="Include" />
+                        <e p="SharingAndroid.Social.cs" t="Include" />
+                        <e p="SharingAndroid.WhatsApp.cs" t="Include" />
+                        <e p="SharingAndroid.WhatsApp.Events.cs" t="Include" />
+                      </e>
+                      <e p="Base" t="Include">
+                        <e p="Sharing.cs" t="Include" />
+                        <e p="Sharing.Events.cs" t="Include" />
+                        <e p="Sharing.Mail.cs" t="Include" />
+                        <e p="Sharing.Mail.Events.cs" t="Include" />
+                        <e p="Sharing.Messaging.cs" t="Include" />
+                        <e p="Sharing.Messaging.Events.cs" t="Include" />
+                        <e p="Sharing.Social.cs" t="Include" />
+                        <e p="Sharing.Social.Events.cs" t="Include" />
+                        <e p="Sharing.WhatsApp.cs" t="Include" />
+                        <e p="Sharing.WhatsApp.Events.cs" t="Include" />
+                      </e>
+                      <e p="iOS" t="Include">
+                        <e p="SharingIOS.cs" t="Include" />
+                        <e p="SharingIOS.Mail.cs" t="Include" />
+                        <e p="SharingIOS.Mail.Events.cs" t="Include" />
+                        <e p="SharingIOS.Messaging.cs" t="Include" />
+                        <e p="SharingIOS.Messaging.Events.cs" t="Include" />
+                        <e p="SharingIOS.Social.cs" t="Include" />
+                        <e p="SharingIOS.Social.Events.cs" t="Include" />
+                        <e p="SharingIOS.WhatsApp.cs" t="Include" />
+                      </e>
+                      <e p="UnityEditor" t="Include">
+                        <e p="SharingEditor.cs" t="Include" />
+                        <e p="SharingEditor.Mail.cs" t="Include" />
+                        <e p="SharingEditor.Messaging.cs" t="Include" />
+                        <e p="SharingEditor.Social.cs" t="Include" />
+                        <e p="SharingEditor.WhatsApp.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="DataTypes" t="Include">
+                      <e p="Composer" t="Include">
+                        <e p="Mail" t="Include">
+                          <e p="MailShareComposer.cs" t="Include" />
+                        </e>
+                        <e p="Message" t="Include">
+                          <e p="MessageShareComposer.cs" t="Include" />
+                        </e>
+                        <e p="SocialNetwork" t="Include">
+                          <e p="FBShareComposer.cs" t="Include" />
+                          <e p="SocialShareComposerBase.cs" t="Include" />
+                          <e p="TwitterShareComposer.cs" t="Include" />
+                        </e>
+                        <e p="WhatsApp" t="Include">
+                          <e p="WhatsAppComposer.cs" t="Include" />
+                        </e>
+                      </e>
+                      <e p="Enums" t="Include">
+                        <e p="Enums.cs" t="Include" />
+                      </e>
+                      <e p="Interface" t="Include">
+                        <e p="IShareView.cs" t="Include" />
+                      </e>
+                      <e p="ShareSheet" t="Include">
+                        <e p="ShareSheet.cs" t="Include" />
+                        <e p="SocialShareSheet.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Utility" t="Include">
+                      <e p="ShareImageUtility.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="UI" t="Include">
+                    <e p="Binding" t="Include">
+                      <e p="Android" t="Include">
+                        <e p="UIAndroid.AlertDialog.cs" t="Include" />
+                        <e p="UIAndroid.AlertDialog.Events.cs" t="Include" />
+                        <e p="UIAndroid.cs" t="Include" />
+                        <e p="UIAndroid.Native.cs" t="Include" />
+                        <e p="UIAndroid.PromptDialog.cs" t="Include" />
+                        <e p="UIAndroid.PromptDialog.Events.cs" t="Include" />
+                      </e>
+                      <e p="Base" t="Include">
+                        <e p="UI.AlertDialog.cs" t="Include" />
+                        <e p="UI.AlertDialog.Events.cs" t="Include" />
+                        <e p="UI.cs" t="Include" />
+                        <e p="UI.PromptDialog.cs" t="Include" />
+                        <e p="UI.PromptDialog.Events.cs" t="Include" />
+                      </e>
+                      <e p="iOS" t="Include">
+                        <e p="UIIOS.AlertDialog.cs" t="Include" />
+                        <e p="UIIOS.AlertDialog.Events.cs" t="Include" />
+                        <e p="UIIOS.cs" t="Include" />
+                        <e p="UIIOS.PromptDialog.cs" t="Include" />
+                        <e p="UIIOS.PromptDialog.Events.cs" t="Include" />
+                      </e>
+                      <e p="UnityEditor" t="Include">
+                        <e p="UIEditor.AlertDialog.cs" t="Include" />
+                        <e p="UIEditor.AlertDialog.Events.cs" t="Include" />
+                        <e p="UIEditor.cs" t="Include" />
+                        <e p="UIEditor.PromptDialog.cs" t="Include" />
+                        <e p="UIEditor.PromptDialog.Events.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="DataTypes" t="Include">
+                      <e p="Enums" t="Include">
+                        <e p="Enums.cs" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                  <e p="Utility" t="Include">
+                    <e p="DataTypes" t="Include">
+                      <e p="RateMyApp" t="Include">
+                        <e p="Internal" t="Include">
+                          <e p="IRateMyAppEventResponder.cs" t="Include" />
+                          <e p="IRateMyAppKeysCollection.cs" t="Include" />
+                          <e p="IRateMyAppOperationHandler.cs" t="Include" />
+                          <e p="IRateMyAppViewController.cs" t="Include" />
+                          <e p="RateMyAppGenericController.cs" t="Include" />
+                          <e p="RateMyAppGenericStoreBase.cs" t="Include" />
+                          <e p="RateMyAppIOSStoreController.cs" t="Include" />
+                        </e>
+                        <e p="IRateMyAppDelegate.cs" t="Include" />
+                        <e p="RateMyApp.cs" t="Include" />
+                        <e p="RateMyAppSettings.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Platform" t="Include">
+                      <e p="IUtilityPlatform.cs" t="Include" />
+                      <e p="UtilityAndroid.cs" t="Include" />
+                      <e p="UtilityAndroid.Native.cs" t="Include" />
+                      <e p="UtilityIOS.cs" t="Include" />
+                      <e p="UtilityUnsupported.cs" t="Include" />
+                    </e>
+                    <e p="Settings" t="Include">
+                      <e p="UtilitySettings.cs" t="Include" />
+                    </e>
+                    <e p="Source" t="Include">
+                      <e p="Utility.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Helpers" t="Include">
+                  <e p="PlatformBinding" t="Include">
+                    <e p="PlatformBindingHelper.Android.cs" t="Include" />
+                    <e p="PlatformBindingHelper.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Readme.txt" t="Include" />
+              <e p="ReleaseNotes.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="AddonServices" t="Include">
+                  <e p="OneSignal" t="Include">
+                    <e p="Settings" t="Include">
+                      <e p="Editor" t="Include">
+                        <e p="OneSignalServiceSettingsDrawer.cs" t="Include" />
+                      </e>
+                      <e p="OneSignalServiceSettings.cs" t="Include" />
+                    </e>
+                    <e p="Utility" t="Include">
+                      <e p="OneSignalServiceUtility.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Internal" t="Include">
+                  <e p="Attributes" t="Include">
+                    <e p="NotifyNPSettingsOnValueChangeAttribute.cs" t="Include" />
+                  </e>
+                  <e p="Misc" t="Include">
+                    <e p="Constants" t="Include">
+                      <e p="Constants.cs" t="Include" />
+                    </e>
+                    <e p="Object" t="Include">
+                      <e p="InstanceIDGenerator.cs" t="Include" />
+                      <e p="NPObject.cs" t="Include" />
+                      <e p="NPObjectManager.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Simulators" t="Include">
+                    <e p="AddressBook" t="Include">
+                      <e p="Editor" t="Include">
+                        <e p="EditorAddressBookInspector.cs" t="Include" />
+                      </e>
+                      <e p="EditorAddressBook.cs" t="Include" />
+                    </e>
+                    <e p="UI" t="Include">
+                      <e p="EditorUIHandler.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Utility" t="Include">
+                    <e p="NPEditorUtility.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Misc" t="Include">
+                  <e p="Constants" t="Include">
+                    <e p="MIMEType.cs" t="Include" />
+                  </e>
+                  <e p="ID" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="PlatformValueDrawer.cs" t="Include" />
+                    </e>
+                    <e p="Enums.cs" t="Include" />
+                    <e p="IDContainer.cs" t="Include" />
+                    <e p="IIdentifierContainer.cs" t="Include" />
+                    <e p="IIdentifierContainerUtils.cs" t="Include" />
+                    <e p="PlatformValue.cs" t="Include" />
+                  </e>
+                  <e p="PlatformValueHelper.cs" t="Include" />
+                  <e p="Utils" t="Include">
+                    <e p="AndroidPluginUtility.cs" t="Include" />
+                    <e p="NPAndroidManifestGenerator.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="NP" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="NPSettingsEditor.cs" t="Include" />
+                  </e>
+                  <e p="NPAssetManager.cs" t="Include" />
+                  <e p="NPBinding.cs" t="Include" />
+                  <e p="NPEditorManager.cs" t="Include" />
+                  <e p="NPSettings.cs" t="Include" />
+                </e>
+                <e p="Settings" t="Include">
+                  <e p="AddonServices" t="Include">
+                    <e p="AddonServicesSettings.cs" t="Include" />
+                  </e>
+                  <e p="Application" t="Include">
+                    <e p="ApplicationSettings.AddonServices.cs" t="Include" />
+                    <e p="ApplicationSettings.AndroidSettings.cs" t="Include" />
+                    <e p="ApplicationSettings.cs" t="Include" />
+                    <e p="ApplicationSettings.Features.cs" t="Include" />
+                    <e p="ApplicationSettings.iOSSettings.cs" t="Include" />
+                    <e p="Editor" t="Include">
+                      <e p="AddonServicesDrawer.cs" t="Include" />
+                      <e p="MultiComponentFeatureDrawer.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+              <e p="Third-Party Notices.txt" t="Include" />
+              <e p="XcodeModifier.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="Vuforia" t="Include">
+            <e p="cerealis.xml" t="Include" />
+          </e>
+        </e>
+        <e p="VoxelBusters" t="Include">
+          <e p="NativePlugins" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Base" t="Include">
+                  <e p="NPDemoBase.cs" t="Include" />
+                  <e p="NPDisabledFeatureDemo.cs" t="Include" />
+                </e>
+                <e p="Features" t="Include">
+                  <e p="AddressBookDemo.cs" t="Include" />
+                  <e p="NetworkConnectivityDemo.cs" t="Include" />
+                  <e p="RateMyAppAdvanced.cs" t="Include" />
+                  <e p="SharingDemo.cs" t="Include" />
+                  <e p="UIDemo.cs" t="Include" />
+                  <e p="UtilityDemo.cs" t="Include" />
+                </e>
+                <e p="Utility" t="Include">
+                  <e p="Utility.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="cerealis-ar.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
